@@ -9,7 +9,7 @@
 
 ### Prerequisites
 - Node.js installed
-- Local MongoDB running on `mongodb://localhost:5000`
+- Local MongoDB running on `mongodb://localhost:27017/notes_db`
 
 ### 1. Backend Server
 cd server
