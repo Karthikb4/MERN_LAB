@@ -3,7 +3,7 @@
 ## Student Credentials
 - **Name:** Bankapalli Karthik
 - **Student ID:** 2026201037
-- **Repository:** [Your GitHub Repository Link]
+- **Repository:** https://github.com/Karthikb4/MERN_LAB
 
 ## Setup Instructions
 
